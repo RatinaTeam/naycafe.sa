@@ -1,0 +1,35 @@
+@font-face {
+   font-family: 'Cormorant Upright';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/GxvMan/Documents/GitHub/naycafe.sa/fonts/Cormorant Upright/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Cormorant Upright';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/GxvMan/Documents/GitHub/naycafe.sa/fonts/Cormorant Upright/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Cormorant Upright';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/GxvMan/Documents/GitHub/naycafe.sa/fonts/Cormorant Upright/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Cormorant Upright';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/GxvMan/Documents/GitHub/naycafe.sa/fonts/Cormorant Upright/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Cormorant Upright';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/GxvMan/Documents/GitHub/naycafe.sa/fonts/Cormorant Upright/regular.ttf') format('truetype');
+}

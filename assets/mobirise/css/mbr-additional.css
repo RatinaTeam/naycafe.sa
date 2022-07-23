@@ -1028,7 +1028,7 @@ section.lazy-placeholder:after {
 .cid-tbFw1Sj6zk .menu-box .box-price {
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
-  float: right;
+  text-align: right;
 }
 @media (min-width: 992px) {
   .cid-tbFw1Sj6zk .menu-item:nth-child(odd) {
@@ -1075,6 +1075,108 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-tbGwLRsWFd SPAN {
+  color: #32a7ca;
+}
+.cid-tcqIr7iOHs {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/background7.svg");
+}
+.cid-tcqIr7iOHs .menu-item {
+  padding-bottom: 2rem;
+}
+.cid-tcqIr7iOHs .menu-box {
+  display: flex;
+}
+.cid-tcqIr7iOHs .menu-box .box-text {
+  word-break: break-word;
+  padding-right: 2rem;
+}
+.cid-tcqIr7iOHs .menu-box .box-price {
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  text-align: right;
+}
+@media (min-width: 992px) {
+  .cid-tcqIr7iOHs .menu-item:nth-child(odd) {
+    padding-right: 2rem;
+  }
+  .cid-tcqIr7iOHs .menu-item:nth-child(even) {
+    padding-left: 2rem;
+  }
+}
+.cid-tcqIr7iOHs P {
+  text-align: left;
+}
+.cid-tcqIr7iOHs SPAN {
+  color: #32a7ca;
+}
+.cid-tcqNhUwRV4 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/background7.svg");
+}
+.cid-tcqNhUwRV4 .menu-item {
+  padding-bottom: 2rem;
+}
+.cid-tcqNhUwRV4 .menu-box {
+  display: flex;
+}
+.cid-tcqNhUwRV4 .menu-box .box-text {
+  word-break: break-word;
+  padding-right: 2rem;
+}
+.cid-tcqNhUwRV4 .menu-box .box-price {
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  text-align: right;
+}
+@media (min-width: 992px) {
+  .cid-tcqNhUwRV4 .menu-item:nth-child(odd) {
+    padding-right: 2rem;
+  }
+  .cid-tcqNhUwRV4 .menu-item:nth-child(even) {
+    padding-left: 2rem;
+  }
+}
+.cid-tcqNhUwRV4 P {
+  text-align: left;
+}
+.cid-tcqNhUwRV4 SPAN {
+  color: #32a7ca;
+}
+.cid-tcqNjH6Xp4 {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/background7.svg");
+}
+.cid-tcqNjH6Xp4 .menu-item {
+  padding-bottom: 2rem;
+}
+.cid-tcqNjH6Xp4 .menu-box {
+  display: flex;
+}
+.cid-tcqNjH6Xp4 .menu-box .box-text {
+  word-break: break-word;
+  padding-right: 2rem;
+}
+.cid-tcqNjH6Xp4 .menu-box .box-price {
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  text-align: right;
+}
+@media (min-width: 992px) {
+  .cid-tcqNjH6Xp4 .menu-item:nth-child(odd) {
+    padding-right: 2rem;
+  }
+  .cid-tcqNjH6Xp4 .menu-item:nth-child(even) {
+    padding-left: 2rem;
+  }
+}
+.cid-tcqNjH6Xp4 P {
+  text-align: left;
+}
+.cid-tcqNjH6Xp4 SPAN {
   color: #32a7ca;
 }
 .cid-tbFLttK3DU {

@@ -1028,6 +1028,7 @@ section.lazy-placeholder:after {
 .cid-tbFw1Sj6zk .menu-box .box-price {
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
+  float: right;
 }
 @media (min-width: 992px) {
   .cid-tbFw1Sj6zk .menu-item:nth-child(odd) {

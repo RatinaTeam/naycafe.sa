@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0.466 403.181 499.534" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <clipPath id="clippath0" transform="">
+      <path d="M 0 595.276 L 1683.78 595.276 L 1683.78 0 L 0 0 Z" style="fill: none; clip-rule: nonzero;"/>
+    </clipPath>
+    <clipPath id="clippath1" transform="">
+      <path d="M 0 595.276 L 1683.78 595.276 L 1683.78 0 L 0 0 Z" style="fill: none; clip-rule: nonzero;"/>
+    </clipPath>
+    <style bx:fonts="g_d0_f1">@font-face { font-family: g_d0_f1; src: url("data:font/opentype;base64,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ArsAAAHfADEBAgAAAAAGAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAqMjEqAADgAOD/A5n/BgBkA5kA+gAAAAAAAAAAAeACogAA4AAAAwAAAAEAAwABAAAADAAEAiAAAAAEAAQAAQAA4P///wAA4AD//wAAAAEABAAAAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgAAQACAAMABAAFAAYABwAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgACAAIAAgAAQAAAAAQAAAAAABfDzz1AAAD6AAAAACeC34nAAAAAJ4LficAAP8GD/8DmQAAABEAAAAAAAAAAAABAAADmf8GAAD//wAAAAAAAAKiAAAAAAAAAAAAAAAAAAAACQAAAAACAwAAAf0AAAJNAAABOQAAAj8AAAJ9AAACpAAAAAAAAAAAUAAACQAAAAAAFAD2AAEAAAAAAAAAEAAAAAEAAAAAAAEAIgAQAAEAAAAAAAIABwAyAAEAAAAAAAMACAA5AAEAAAAAAAQAIgBBAAEAAAAAAAUADABjAAEAAAAAAAYAAABvAAEAAAAAAAcABwBvAAEAAAAAAAgABwB2AAEAAAAAAAkABwB9AAMAAQQJAAAAIACEAAMAAQQJAAEARACkAAMAAQQJAAIADgDoAAMAAQQJAAMAEAD2AAMAAQQJAAQARAEGAAMAAQQJAAUAGAFKAAMAAQQJAAYAAAFiAAMAAQQJAAcADgFiAAMAAQQJAAgADgFwAAMAAQQJAAkADgF+T3JpZ2luYWwgbGljZW5jZVRVR0VNSytNeXJpYWRWYXJpYWJsZUNvbmNlcHQtUm9tYW5Vbmtub3dudW5pcXVlSURUVUdFTUsrTXlyaWFkVmFyaWFibGVDb25jZXB0LVJvbWFuVmVyc2lvbiAwLjExVW5rbm93blVua25vd25Vbmtub3duAE8AcgBpAGcAaQBuAGEAbAAgAGwAaQBjAGUAbgBjAGUAVABVAEcARQBNAEsAKwBNAHkAcgBpAGEAZABWAGEAcgBpAGEAYgBsAGUAQwBvAG4AYwBlAHAAdAAtAFIAbwBtAGEAbgBVAG4AawBuAG8AdwBuAHUAbgBpAHEAdQBlAEkARABUAFUARwBFAE0ASwArAE0AeQByAGkAYQBkAFYAYQByAGkAYQBiAGwAZQBDAG8AbgBjAGUAcAB0AC0AUgBvAG0AYQBuAFYAZQByAHMAaQBvAG4AIAAwAC4AMQAxAFUAbgBrAG4AbwB3AG4AVQBuAGsAbgBvAHcAbgBVAG4AawBuAG8AdwBuAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="); }</style>
+  </defs>
+  <g transform="matrix(1.56273, 0, 0, -1.56273, -437.960114, 728.773193)" style="">
+    <g transform="translate(534.6045 217.7512)">
+      <path d="M 0 0 L -249.075 -0.012 L -249.075 5.611 L 0 5.623 Z" style="fill: rgb(199, 154, 105); fill-opacity: 1;"/>
+    </g>
+    <g transform="translate(534.6045 265.5251)">
+      <path d="M 0 0 L -249.075 -0.012 L -249.075 5.611 L 0 5.623 Z" style="fill: rgb(199, 154, 105); fill-opacity: 1;"/>
+    </g>
+    <g transform="translate(285.5293 250.9074)">
+      <path d="M 0 0 L 0 -12.941 L 249.075 -12.929 L 249.075 0.012 Z" style="fill: rgb(199, 154, 105); fill-opacity: 1;"/>
+    </g>
+    <g transform=""/>
+    <g style="clip-path: url(#clippath0);">
+      <g transform="translate(338.938 366.695)">
+        <path d="M 0 0 L 0 94.457 L -5.623 94.457 L -5.623 -5.623 C -5.623 -5.623 190.133 -5.617 195.667 -5.623 L 195.667 0 Z" style="fill: rgb(199, 154, 105); fill-opacity: 1;"/>
+      </g>
+    </g>
+    <g style="clip-path: url(#clippath0);">
+      <g transform="translate(291.1523 461.1423)">
+        <path d="M 0 0 L -5.623 0 L -5.623 -147.854 C -5.623 -147.854 237.883 -147.787 243.452 -147.844 L 243.452 -142.221 L 0 -142.23 Z" style="fill: rgb(199, 154, 105); fill-opacity: 1;"/>
+      </g>
+    </g>
+    <g style="clip-path: url(#clippath0);">
+      <g transform="translate(318.709 346.4675)">
+        <path d="M 0 0 L 0 114.684 L -12.924 114.684 L -12.94 114.684 C -12.993 107.071 -12.94 -9.534 -12.94 -10.688 L -12.94 -12.94 L 215.896 -12.94 L 215.896 0 Z" style="fill: rgb(199, 154, 105); fill-opacity: 1;"/>
+      </g>
+    </g>
+    <g style="clip-path: url(#clippath0);">
+      <g transform="translate(427.2324 339.9968)">
+        <path d="M 0 0 C 0 -9.771 -7.921 -17.691 -17.691 -17.691 C -27.462 -17.691 -35.383 -9.771 -35.383 0 C -35.383 9.771 -27.462 17.691 -17.691 17.691 C -7.921 17.691 0 9.771 0 0" style="fill: rgb(50, 167, 202); fill-opacity: 1;"/>
+      </g>
+    </g>
+    <g style="clip-path: url(#clippath0);">
+      <g transform="translate(480.0996 244.5832)">
+        <path d="M 0 0 C 0 -9.771 -7.92 -17.691 -17.691 -17.691 C -27.462 -17.691 -35.383 -9.771 -35.383 0 C -35.383 9.771 -27.462 17.691 -17.691 17.691 C -7.92 17.691 0 9.771 0 0" style="fill: rgb(50, 167, 202); fill-opacity: 1;"/>
+      </g>
+    </g>
+    <g style="clip-path: url(#clippath0);">
+      <g transform="translate(375.9868 244.5832)">
+        <path d="M 0 0 C 0 -9.771 -7.92 -17.691 -17.691 -17.691 C -27.462 -17.691 -35.382 -9.771 -35.382 0 C -35.382 9.771 -27.462 17.691 -17.691 17.691 C -7.92 17.691 0 9.771 0 0" style="fill: rgb(50, 167, 202); fill-opacity: 1;"/>
+      </g>
+    </g>
+    <g transform="">
+      <text transform="matrix(29.6887 0 0 29.6887 322.8535 155.0137) scale(1, -1)" style="white-space: pre;"><tspan y="0" x="0 0.876 1.633" style="font-family: g_d0_f1; font-size: 1px; fill: rgb(50, 167, 202);"></tspan><tspan y="0" x="2.401" style="font-family: g_d0_f1; font-size: 1px; fill: rgb(199, 154, 105);"></tspan><tspan y="0" x="2.914 3.706 4.542 5.251" style="font-family: g_d0_f1; font-size: 1px; fill: rgb(50, 167, 202);"></tspan></text>
+    </g>
+    <g style="clip-path: url(#clippath1);">
+      <g transform="">
+        <path d="M 534.604 163.716 L 505.349 163.716 L 505.349 166.586 L 534.604 166.586 Z" style="fill: rgb(199, 154, 105); fill-opacity: 1;"/>
+        <path d="M 314.785 163.716 L 285.529 163.716 L 285.529 166.586 L 314.785 166.586 Z" style="fill: rgb(199, 154, 105); fill-opacity: 1;"/>
+      </g>
+    </g>
+    <g transform=""/>
+  </g>
+</svg>
